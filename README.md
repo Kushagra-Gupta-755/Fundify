@@ -1,15 +1,15 @@
-# 🌐 Fundify – Intern Fundraising Portal (Frontend Prototype)
+# Fundify – Intern Fundraising Portal (Frontend Prototype)
 
 **Fundify** is a responsive, interactive fundraising dashboard designed as part of the **Full Stack Developer Internship - Round 1 Task**.  
 It allows interns to track their referral code, view total donations, access rewards, and see where they rank all in a sleek, user-friendly layout.
 
-🔗 **Live Site:** [https://your-vercel-deployment-link.vercel.app](https://your-vercel-deployment-link.vercel.app)
+**Live Site:** [https://your-vercel-deployment-link.vercel.app](https://your-vercel-deployment-link.vercel.app)
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎯 Core UI Pages
+### Core UI Pages
 - **Login/Signup Page** (UI only – no auth logic)
 - **Intern Dashboard** displaying:
   - Intern name  
@@ -18,7 +18,7 @@ It allows interns to track their referral code, view total donations, access rew
   - Rewards/unlockables (static layout)
 - **Leaderboard Page** showing top interns with mock data
 
-### 🎨 Design & Interactivity
+### Design & Interactivity
 - Live animated background using `particles.js` or `Vanta.js`
 - Progress bar for donations raised
 - Countdown timer to deadline
@@ -30,7 +30,7 @@ It allows interns to track their referral code, view total donations, access rew
 
 ---
 
-## 📁 Tech Stack
+## Tech Stack
 
 - **Frontend:** React, HTML, CSS, JavaScript  
 - **Animations:** Particles.js / Vanta.js / CSS transitions  
@@ -38,7 +38,7 @@ It allows interns to track their referral code, view total donations, access rew
 
 ---
 
-## 💡 Firebase Integration (Future Work)
+## Firebase Integration (Future Work)
 I explored adding:
 
 Google Authentication using Firebase Auth
@@ -49,7 +49,7 @@ These features are not part of the current build, but can be integrated in futur
 
 ---
 
-## 📌 Current Limitations
+## Current Limitations
 This is a frontend-only prototype
 
 All data is static/dummy
