@@ -3,7 +3,7 @@
 **Fundify** is a responsive, interactive fundraising dashboard designed as part of the **Full Stack Developer Internship - Round 1 Task**.  
 It allows interns to track their referral code, view total donations, access rewards, and see where they rank all in a sleek, user-friendly layout.
 
-**Live Site:** [https://your-vercel-deployment-link.vercel.app](https://your-vercel-deployment-link.vercel.app)
+**Live Site:** [Fundify](https://fundify-five.vercel.app/)
 
 ---
 
