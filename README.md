@@ -41,18 +41,18 @@ It allows interns to track their referral code, view total donations, access rew
 ## Firebase Integration (Future Work)
 I explored adding:
 
-Google Authentication using Firebase Auth
+- Google Authentication using Firebase Auth
 
-Real-time database to store user data and donations
+- Real time database to store user data and donations
 
-These features are not part of the current build, but can be integrated in future versions as the backend is developed.
+- These features are not part of the current build, but can be integrated in future versions as the backend is developed.
 
 ---
 
-## Current Limitations
-This is a frontend-only prototype
+## NOTE
+- This is a frontend-only prototype
 
-All data is static/dummy
+- All data is static/dummy
 
-No backend or database integration in this version
+- No backend or database integration in this version
 
